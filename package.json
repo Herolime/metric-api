@@ -1,0 +1,15 @@
+{
+  "name": "metric-api",
+  "version": "1.0.0",
+  "description": "API assignment for technical interview",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "test"
+  },
+  "author": "Herandy Santos Encarnacion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
